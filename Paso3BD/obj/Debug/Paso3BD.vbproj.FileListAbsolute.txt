@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Paso3BD\Paso3BD\bin\Debug\estudiantes.accdb
+C:\Users\PC\source\repos\Paso3BD\Paso3BD\bin\Debug\Paso3BD.exe.config
+C:\Users\PC\source\repos\Paso3BD\Paso3BD\bin\Debug\Paso3BD.exe
+C:\Users\PC\source\repos\Paso3BD\Paso3BD\bin\Debug\Paso3BD.pdb
+C:\Users\PC\source\repos\Paso3BD\Paso3BD\bin\Debug\Paso3BD.xml
+C:\Users\PC\source\repos\Paso3BD\Paso3BD\obj\Debug\Paso3BD.vbprojAssemblyReference.cache
+C:\Users\PC\source\repos\Paso3BD\Paso3BD\obj\Debug\Paso3BD.Resources.resources
+C:\Users\PC\source\repos\Paso3BD\Paso3BD\obj\Debug\Paso3BD.VentanaEstudiante.resources
+C:\Users\PC\source\repos\Paso3BD\Paso3BD\obj\Debug\Paso3BD.VentanaRegistro.resources
+C:\Users\PC\source\repos\Paso3BD\Paso3BD\obj\Debug\Paso3BD.vbproj.GenerateResource.cache
+C:\Users\PC\source\repos\Paso3BD\Paso3BD\obj\Debug\Paso3BD.vbproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Paso3BD\Paso3BD\obj\Debug\Paso3BD.exe
+C:\Users\PC\source\repos\Paso3BD\Paso3BD\obj\Debug\Paso3BD.xml
+C:\Users\PC\source\repos\Paso3BD\Paso3BD\obj\Debug\Paso3BD.pdb
+C:\Users\PC\source\repos\Paso3BD\Paso3BD\obj\Debug\Paso3BD.VentanaInicio.resources
